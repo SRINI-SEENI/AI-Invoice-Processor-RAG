@@ -1,0 +1,2 @@
+# Mark templates directory as vendored to exclude it from the language statistics bar.
+templates/** linguist-vendored
