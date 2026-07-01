@@ -1,0 +1,24 @@
+# Python virtual environment
+.venv/
+venv/
+ENV/
+env/
+
+# Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Local environment variables and secrets
+.env
+.env.*
+
+# IDE config folders (optional but recommended)
+.vscode/
+.idea/
+
+# OS specific files
+Thumbs.db
+desktop.ini
+.DS_Store
